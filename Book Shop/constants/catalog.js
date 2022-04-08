@@ -1,0 +1,72 @@
+ const CATALOG = [
+     {
+         id: "el1",
+         name: "Портрет Дориана Грея",
+         author: "Оскар Уальд",
+         img: "https://i.ibb.co/6RCZJ8K/12473197-oskar-uayld-portret-doriana-greya-12473197.jpg",
+         price: "324",
+     },
+     {
+        id: "el2",
+        name: "1984",
+        author: "Джордж Оруэлл",
+        img: "https://i.ibb.co/XVx2nH2/7.jpg",
+        price: "205",
+    },  
+    {
+        id: "el3",
+        name: "Преступление и наказание",
+        author: "Федор Михайлович Достоевский",
+        img: "https://i.ibb.co/g6wFfPP/4.jpg",
+        price: "153",
+    },
+    {
+        id: "el4",
+        name: "Три товарища",
+        author: "Эрих Мария Ремарк",
+        img: "https://i.ibb.co/SrJ7xFh/9.jpg",
+        price: "253",
+    },
+    {
+        id: "el5",
+        name: "Повелитель мух",
+        author: "Голдинг Уильям Джеральд",
+        img: "https://i.ibb.co/zN7Lkyv/5.jpg",
+        price: "238",
+    },
+    {
+        id: "el6",
+        name: "Мартин Иден",
+        author: "Джек Лондон",
+        img: "https://i.ibb.co/vHjymp2/3.jpg",
+        price: "189",
+    },
+    {
+        id: "el7",
+        name: "Горе от ума",
+        author: "Александр Сергеевич Грибоедов",
+        img: "https://i.ibb.co/MkWsvC9/9.jpg",
+        price: "210",
+    },
+    {
+        id: "el8",
+        name: "Отцы и дети",
+        author: "Иван Серегеевич Тургенев",
+        img: "https://i.ibb.co/kXK9kwK/6.jpg",
+        price: "149",
+    },
+    {
+        id: "el9",
+        name: "Джейн Эйр",
+        author: "Шарлотта Бронте",
+        img: "https://i.ibb.co/QJsbwpv/8.jpg",
+        price: "181",
+    },
+    {
+        id: "el10",
+        name: "Убить пересмешника",
+        author: "Харпер Ли  ",
+        img: "https://i.ibb.co/WHfyBgM/8.jpg",
+        price: "299",
+    }
+ ] 
